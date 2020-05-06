@@ -52,6 +52,7 @@ If yes, how? If not, what would be the workaround?** <br>
 
 Esp. since this spreadsheet is not natively built on a platform like Airtable. We are going to run into scenarios like these very often with local data. <br>
 
+> Need to check in with Peter about this functionality.
 
 ------------------------------
 
