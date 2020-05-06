@@ -56,6 +56,6 @@ Esp. since this spreadsheet is not natively built on a platform like Airtable. W
 
 ------------------------------
 
-Next step after figuring out the above would be:
+Next / final step after figuring out the above would be:
 
-**Designing the Query**
+**Designing the Query** within the signal.
