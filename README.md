@@ -30,7 +30,7 @@ https://ckan0.cf.opendata.inter.prod-toronto.ca/api/3/action/package_show?id=out
 
 ### `PROBLEMATIC DATA DESIGN?`
 
-- No endpoints to access the parameters / data fields of the 2020 dataset from within this package, i.e. the data fields within the Excel file themselves are not accessible through API calls.
+- No endpoints to access the parameters / data fields of the 2020 dataset from within this package, i.e. the data fields within the Excel file themselves are not accessible through API calls (which is also probably why we aren't able to preview the data right within the website)
 - The data seems to have been hardcoded into an Excel file that gets updated and re-uploaded. So the max you can get to with API call is the URL to download the Excel file.
 
   **Excel file URL:**
