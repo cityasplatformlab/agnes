@@ -68,3 +68,9 @@ Esp. since this spreadsheet is not natively built on a platform like Airtable. W
 - Test with SMS ✅
 
 [SMS Test Screenshot](https://pasteboard.co/J7hjhI0Q.jpg)
+
+------------------------------
+
+`Question #1: Is it possible to connect / establish flow between two signals? (Within the same window / widget)`
+
+`Question #2: Is it possible to add other text near the input text box (i.e. "input / descriptive notes" to reduce error since user input do not always match API query calls). Currently it seems to override all markdown edits.`
