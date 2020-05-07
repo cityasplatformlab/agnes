@@ -60,6 +60,11 @@ Esp. since this spreadsheet is not natively built on a platform like Airtable. W
 
 ------------------------------
 
-Next / final step after figuring out the above would be:
+**Current workaround for demo:**
 
-**Designing the Query** within the signal.
+- Make own API from the spreadsheet ✅ --> https://sheetlabs.com/CAPL/outbreaks2020
+- Design queries on SignalPattern ✅ --> [Active Outbreak](https://www.signalpattern.com/patterns/nravella/3SNS0CVv!result) + [Start / End Date of Outbreak](https://www.signalpattern.com/patterns/nravella/3SNS0CVv!result_info)
+- Use JSONata for parsing queries ✅
+- Test with SMS ✅
+
+![SMS Test Screenshot](https:pasteboard.co/J7hjhl0Q.jpg)
