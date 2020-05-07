@@ -67,4 +67,4 @@ Esp. since this spreadsheet is not natively built on a platform like Airtable. W
 - Use JSONata for parsing queries ✅
 - Test with SMS ✅
 
-![SMS Test Screenshot](https:pasteboard.co/J7hjhl0Q.jpg)
+[SMS Test Screenshot](https:pasteboard.co/J7hjhl0Q.jpg)
