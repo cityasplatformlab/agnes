@@ -1,4 +1,4 @@
-# notes on SP widget for Agnes
+# Toronto Outbreaks Widget (Agnes) 
 
 **User**
 
